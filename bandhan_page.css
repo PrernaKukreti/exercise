@@ -1,0 +1,280 @@
+
+  header{
+
+  position: fixed;
+    height: auto;
+    background-color:#ff6699;
+    width: 100%;
+    z-index: 100;
+    top:0px;
+
+}
+nav
+{
+background-color: blue;
+height: 60px;
+
+}
+.nav1
+{
+  height: 50px;
+  background-color: #ff6699;
+  position: relative;
+
+}
+nav li {
+  float: left;
+  display: inline;
+  padding-right: 20px;
+  padding-top: 0px;
+  color: white;
+  font-family: fantasy;
+
+}
+
+.proheader
+{
+  float:right;
+  right:700px;
+  color: grey;
+  font-family: 'Courgette', cursive;
+
+}
+.h4header
+{
+
+  position:absolute;
+  left:1050px;
+  color:white;
+  top:200px;
+  font-family: 'Clicker Script', cursive;
+  font-size:40px;
+}
+.h1third
+{
+
+text-align:center;
+ color:#cc0052;
+ font-size:70px;
+ font-family: 'Courgette', cursive;
+
+}
+.h1content1
+{
+font-size:50px;margin-left:500px;font-family: 'Lobster Two', cursive;
+
+}
+.h3content1
+{
+font-size:20px;margin-left:300px;font-family: 'Courgette', cursive;
+
+}
+
+
+
+
+.firstdiv
+{
+  background-image: url("../images/dw8.jpg");
+  background-repeat: no-repeat;
+  height:700px;
+  margin-top: 100px;
+  position: relative;
+  background-size: cover;
+}
+.main
+{
+  background-color:#f4f4f4;
+  position: relative;
+}
+.seconddiv
+{
+  position: absolute;
+  background-color: #ff6699;
+  height:250px;
+  top:750px;
+  width:800px;
+  margin-left: 390px;
+}
+body
+{
+  background-color: #f4f4f4;
+
+}
+.sec
+{
+margin-left: 160px;
+color: white;
+font-family: fantasy;
+}
+
+.lia
+{
+  color: #f4f4f4;
+  font-size: 25px;
+  font-family: 'Satisfy', cursive;
+}
+a
+{
+  font-size: 20px;
+text-decoration: none;
+}
+nav a:hover
+{
+
+  color: yellow;
+}
+
+
+
+p
+{
+  position: absolute;
+  top: 70px;
+font-family: 'Satisfy', cursive;
+  margin-left: 30px;
+
+  left:100px;
+  color: #ffccff;
+}
+form
+{
+  position: absolute;
+  top:110px;
+  right:170px;
+}
+
+.sel{
+  height: 40px;
+}
+.sel1{
+  height: 40px;
+}
+.but1{
+ height: 40px;
+ color: black;
+}
+
+
+
+.primary1
+{
+  background-image: url("../images/bride1.jpg");
+  width:500px;
+  height:420px;
+  margin-top: 350px;
+}
+.primary2
+{
+  background-image: url("../images/jewel.jpg");
+  height:500px;
+  width:500px;
+  background-repeat: no-repeat;
+  margin-top: 350px;
+}
+.primary3
+{
+  background-image: url("../images/makeup.jpg");
+  height:420px;
+  width:500px;
+  background-repeat: no-repeat;
+  margin-top: 350px;
+}
+.primary4
+{
+  background-image: url("../images/decor.jpg");
+  height:420px;
+  width:500px;
+  background-repeat: no-repeat;
+}
+.primary5
+{
+ width:500px;
+  height:420px;
+  background-repeat: no-repeat;
+  background-image: url("../images/photo.jpg");
+}
+.primary6
+
+{
+  background-image: url("../images/invitation.jpg");
+  height:420px;
+  width:420px;
+  background-repeat: no-repeat;
+}
+
+
+blockquote
+{
+  color: white;
+  top: 100px;
+  position: absolute;
+  left:1000px;
+  font-family: 'Yesteryear', cursive;
+  font-size: 20px;
+}
+.grid_6
+{
+  left: 100px;
+  background-color: red;
+}
+.primary7
+{
+  background-image: url("../images/venue1.jpg");
+  background-repeat: no-repeat;
+  height:400px;
+
+
+}
+.asidebar
+{
+  height:400px;
+}
+.venue
+{
+  background-color: green;
+}
+
+.content1
+{
+
+margin-top: 500px;
+height: 600px;
+background-image: url("../images/venue2.jpg");
+background-repeat: no-repeat;
+color: white;
+}
+
+
+footer{
+background-color: #ffccb3;
+height: 400px;
+position: relative;
+}
+
+#o
+{
+  display:inline;
+
+
+}
+
+
+h1
+{
+  margin-right: 50px;
+}
+h4
+{
+
+  color: white;
+
+}
+.contentbut
+{
+margin-left: 730px;
+margin-top: 0px;
+width: 110px;
+height: 35px;
+
+}

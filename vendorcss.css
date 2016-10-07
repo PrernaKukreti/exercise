@@ -1,0 +1,371 @@
+header{
+
+position: fixed;
+  height: auto;
+  background-color:#ff6699;
+  width: 100%;
+  z-index: 100;
+  top:0px;
+
+}
+nav
+{
+background-color: blue;
+height: 60px;
+}
+.nav1
+{
+  height: 50px;
+  background-color: #ff6699;
+  position: relative;
+
+}
+nav li {
+  float: left;
+  display: inline;
+  padding-right: 20px;
+  padding-top: 0px;
+  color: white;
+  font-family: fantasy;
+
+}
+.proheader
+{
+  float:right;
+  right:700px;
+  color: grey;
+  font-family: 'Courgette', cursive;
+
+}
+
+.hmain
+{
+position: absolute;
+margin-top: 650px;
+margin-left: 650px;
+color: #cc0052;
+font-family: 'Courgette', cursive;
+font-size: 60px;
+
+}
+
+.hmain1
+{
+position: absolute;
+margin-top: 1400px;
+margin-left: 650px;
+color: #cc0052;
+font-family: 'Courgette', cursive;
+font-size: 60px;
+
+}
+
+
+.hmain2
+{
+position: absolute;
+margin-top: 2150px;
+margin-left: 550px;
+color: #cc0052;
+font-family: 'Courgette', cursive;
+font-size: 60px;
+
+}
+
+
+
+
+
+.main
+{
+  margin-top: 150px;
+  height:600px;
+  background-color: #ffb3b3;
+  position: relative;
+}
+.maincolumn
+{
+height:500px;
+background-color: white;
+width:600px;
+position:absolute;
+left:830px;
+top:50px;
+}
+.maincolumn1
+{
+height:250px;
+background-color: white;
+width:400px;
+position:absolute;
+left:90px;
+
+
+}
+.vendormain4
+{
+position: absolute;
+top:50px;
+width:600px;
+height: 500px;
+left:230px;
+
+}
+
+.vendormain3
+{
+  width:300px;
+  height: 300px;
+  position: absolute;
+  top:200px;
+  left:130px;
+}
+
+.vendormain1
+{
+  width:300px;
+  height: 240px;
+  position: absolute;
+  top:0px;
+  left:40px;
+}
+
+
+
+.main2
+{
+  margin-top: 150px;
+  height:600px;
+  background-color: #ff9999;
+  position: relative;
+}
+.maincolumn2
+{
+height:500px;
+background-color: white;
+width:600px;
+position:absolute;
+left:830px;
+top:50px;
+}
+.maincolumn3
+{
+height:250px;
+background-color: white;
+width:400px;
+position:absolute;
+left:90px;
+
+
+}
+
+
+
+
+
+.vendorvenue2
+{
+position: absolute;
+top:50px;
+width:600px;
+height: 500px;
+left:230px;
+
+}
+
+.vendorvenue1
+{
+  width:300px;
+  height: 300px;
+  position: absolute;
+  top:200px;
+  left:130px;
+}
+
+.vendorvenue
+{
+  width:300px;
+  height: 240px;
+  position: absolute;
+  top:0px;
+  left:40px;
+}
+
+
+
+
+.main3
+{
+  margin-top: 150px;
+  height:600px;
+  background-color: #ff9999;
+  position: relative;
+}
+.maincolumn4
+{
+height:500px;
+background-color: white;
+width:600px;
+position:absolute;
+left:830px;
+top:50px;
+}
+.maincolumn5
+{
+height:250px;
+background-color: white;
+width:400px;
+position:absolute;
+left:90px;
+
+
+}
+
+
+
+
+.vendoroutfit1
+{
+position: absolute;
+top:50px;
+width:600px;
+height: 500px;
+left:230px;
+
+}
+
+.vendoroutfit2
+{
+  width:300px;
+  height: 300px;
+  position: absolute;
+  top:200px;
+  left:130px;
+}
+
+.vendoroutfit
+{
+  width:300px;
+  height: 240px;
+  position: absolute;
+  top:0px;
+  left:40px;
+}
+
+
+
+.main4
+{
+  margin-top: 150px;
+  height:600px;
+  background-color: #ffb3b3;
+  position: relative;
+}
+.maincolumn6
+{
+height:500px;
+background-color: white;
+width:600px;
+position:absolute;
+left:850px;
+top:50px;
+}
+.maincolumn7
+{
+height:250px;
+background-color: white;
+width:400px;
+position:absolute;
+left:90px;
+
+
+}
+.vendorcard
+{
+position: absolute;
+top:50px;
+width:600px;
+height: 500px;
+left:230px;
+
+}
+
+.vendorcard1
+{
+  width:300px;
+  height: 300px;
+  position: absolute;
+  top:200px;
+  left:130px;
+}
+
+.vendorcard2
+{
+  width:300px;
+  height: 240px;
+  position: absolute;
+  top:0px;
+  left:40px;
+}
+body
+{
+  background-color: #f4f4f4;
+
+}
+.lia
+{
+  color: #f4f4f4;
+  font-size: 25px;
+  font-family: 'Satisfy', cursive;
+  text-decoration: none;
+}
+nav a:hover
+{
+  color: yellow;
+}
+
+.mainlink
+{
+color: white;
+font-size: 70px;
+position: absolute;
+left:450px;
+font-family: 'Courgette', cursive;
+top:250px;
+
+}
+
+.mainlink2
+{
+position: absolute;
+left:500px;
+font-family: 'Courgette', cursive;
+
+}
+
+.mainlink3
+{
+position: absolute;
+left:400px;
+top:400px;
+font-family: 'Courgette', cursive;
+
+}
+
+.mainli
+{
+position: absolute;
+left:500px;
+top:200px;
+}
+#o
+{
+  display:inline;
+
+
+}
+footer{
+background-color: #ffccb3;
+height: 400px;
+position: relative;
+}
